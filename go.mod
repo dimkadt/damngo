@@ -1,4 +1,4 @@
-module github.com/dimkadt/gotestapp
+module github.com/dimkadt/damngo
 
 go 1.22.0
 
